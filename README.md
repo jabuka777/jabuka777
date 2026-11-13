@@ -24,4 +24,11 @@ Jabuka is an independent Apple repair shop in central Moscow, open since 2011. W
 - [Zoom Meeting Agent](https://github.com/jabuka777/jabuka-tools/tree/main/zoom-meeting-agent) transcribes a Zoom meeting on your own computer and drafts the minutes with tasks and deadlines.
 - iCloud export copies contacts, calendars, notes, reminders, iCloud Drive and photos to your own disk, Yandex Disk, Google Drive or a NAS. Coming soon.
 
+## Visit or contact us
+
+- **Address:** Milyutinsky pereulok 18A, office 1, Moscow (near Chistye Prudy, Turgenevskaya and Sretensky Bulvar metro). Open daily 11:00–21:00.
+- **Repairs:** iPhone, MacBook, iMac, iPad, Apple Watch, AirPods. Every repair comes with our own written warranty: 12 months on work and parts. We are not an Apple Authorized Service Provider (Apple has no official service in Russia).
+- **Prices:** current price list with repair times is on [jabuka.ru/en](https://jabuka.ru/en). Payment in rubles.
+- **Companies:** contract with a Russian LLC, invoices, electronic document exchange, courier pickup, loaner devices.
+
 Need a repair in Moscow? Text us in English or any other language: [jabuka.ru/en](https://jabuka.ru/en). Phone calls are in Russian.
